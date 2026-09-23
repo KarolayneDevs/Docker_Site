@@ -1,4 +1,4 @@
-# ARRUMAI
+# ARRUMAÍ
 
 > Plataforma web de serviços de documentação técnica.
 

@@ -34,11 +34,9 @@ Desenvolver uma plataforma web onde clientes possam solicitar, de forma simples,
 
 ##  Equipe
 
-<!-- Adicione aqui os nomes e links do GitHub de cada integrante -->
-
 | Nome | GitHub |
 |------|--------|
-| ALICE QUELY TEIXEIRA SOMBRA | [@quely78](https://github.com/quely78) |
-| KAROLAYNE DINIZ | [@quely78](https://github.com/quely78) |
-| MARIA LUANA PINHEIRO MARAES | [@quely78](https://github.com/quely78) |
-| MARIA HELENA MOTA CAMPOS | [@quely78](https://github.com/quely78) |
+| ALICE QUELY TEIXEIRA SOMBRA - back | [@quely78](https://github.com/quely78) |
+| KAROLAYNE DINIZ - banco de dados | [@KarolayneDevs](https://github.com/KarolayneDevs) |
+| MARIA LUANA PINHEIRO MARAES - front | 
+| MARIA HELENA MOTA CAMPOS - front | [@mariahelenamotta](https://github.com/mariahelenamotta)) |
